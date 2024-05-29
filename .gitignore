@@ -47,3 +47,4 @@ application-my.yaml
 /lego-ui-app/unpackage/
 
 .venv
+.vercel
